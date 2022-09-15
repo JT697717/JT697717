@@ -1,11 +1,11 @@
 I'm Johann from South Africa currently living in brazil, I am a junior data analyst interested in data science and collaborating on projects, and developing my skills. I'm also interested in learning python and web scraping.
-How to reach me, email johannt30@gmail.com LinkedIn https://www.linkedin.com/in/johann-theron-07ab22236?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BAmHjmUUKQ%2Bm3OTvcbg2eAg%3D%3D
+How to reach me, email johannt30@gmail.com
  
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JT697717)](https://github.com/anuraghazra/github-readme-stats)
  
  ### Hi there 👋, Johann Theron
 #### Data analytics and Dashboards
-![Data analytics and Dashboards](https://ibb.co/T1ZDHG9)
+(<a href="https://ibb.co/T1ZDHG9"><img src="https://i.ibb.co/MfbyRHF/Screenshot-20220915-084258-com-google-android-googlequicksearchbox-edit-374712909424072.jpg" alt="Screenshot-20220915-084258-com-google-android-googlequicksearchbox-edit-374712909424072" border="0"></a>)
 
 I'm Johann from South Africa currently living in brazil, and I am a junior data analyst interested in data science and collaborating on projects, and developing my skills. I'm also interested in learning python and web scraping.
 
